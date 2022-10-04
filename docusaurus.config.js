@@ -57,11 +57,11 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
+						type: "doc",
+						docId: "intro",
+						position: "left",
+						label: "Docs",
+					},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -84,10 +84,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/is-a-dev/',
