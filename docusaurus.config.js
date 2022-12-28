@@ -63,7 +63,7 @@ const config = {
 						label: "Docs",
 					},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/is-a-dev',
             label: 'GitHub',
             position: 'right',
           },
@@ -91,7 +91,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Is-a-dev. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Is-a-dev.`,
       },
       prism: {
         theme: lightCodeTheme,
